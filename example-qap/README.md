@@ -1,0 +1,1 @@
+<https://kb.iany.me/para/lets/z/Zero-Knowledge+Proof/QAP+Step-by-Step>
