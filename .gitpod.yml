@@ -1,0 +1,5 @@
+tasks:
+    - init: |
+        npm install -g snarkjs
+        pip install sympy
+        pushd circom && cargo build --release && cargo install --path circom && popd
